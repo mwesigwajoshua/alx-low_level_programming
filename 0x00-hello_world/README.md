@@ -4,3 +4,4 @@
 3-name compiles a c file and creates an executable file
 4-puts.c 
 5-printf.c
+6-size.c prints sizes of various sizes of the types for computer onwhich its compiled on
