@@ -2,3 +2,5 @@
 1-compiler compiles a c file but doesnot link
 2-assembler generates assembly code for a c file
 3-name compiles a c file and creates an executable file
+4-puts.c 
+
